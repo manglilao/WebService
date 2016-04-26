@@ -14,5 +14,6 @@ public class Cleint {
 		Server server = (Server)jaxWsProxyFactoryBean.create();
 		server.sayHello("lilei");
 		System.out.println("hello");
+		System.out.println("tang");
 	}
 }
