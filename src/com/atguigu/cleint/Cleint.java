@@ -15,5 +15,6 @@ public class Cleint {
 		server.sayHello("lilei");
 		System.out.println("hello");
 		System.out.println("tang");
+		System.out.println("xincheng");
 	}
 }
